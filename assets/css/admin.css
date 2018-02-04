@@ -1,0 +1,46 @@
+body
+{
+	font-family: Arial;
+	font-size: 14px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+    font-size: 14px;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+
+.header {
+	background-color: #000;
+}
+
+.main{
+	margin: 30px auto;
+}
+
+.top-bar img{
+	max-width: 100%;
+	margin-top: 30px;
+}
+
+.top-bar a {
+	color:#FFF;
+}
+
+.top-bar a:hover {
+	color:#000;
+}
+
+
+.top-bar ul {
+	margin: 20px auto;
+}
+
+.nav>li>a {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+

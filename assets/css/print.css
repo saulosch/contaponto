@@ -1,0 +1,4 @@
+@media print {
+  html, body {
+    overflow: hidden;
+  }
